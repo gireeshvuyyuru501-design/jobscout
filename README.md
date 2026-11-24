@@ -29,3 +29,7 @@ The résumé stays local. Employer-board requests send the board identifier. Bra
 ## License
 
 [MIT](LICENSE)
+
+## Local demo
+
+![JobScout running in VS Code](docs/images/JobScout-Streamlit-Startup.png)
